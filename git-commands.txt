@@ -1,3 +1,2 @@
-<!DOCTYPE>
-<HTML>
-
+git remote add origin git@github.com:Meena044/git_test.git -- to link the repo
+git remote add origin git@github.com:Meena044/git_test.git -- to set the repo in vscode

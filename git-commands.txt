@@ -1,8 +1,9 @@
 git remote add origin git@github.com:Meena044/git_test.git -- to link the repo
 git remote add origin git@github.com:Meena044/git_test.git -- to set the repo in vscode
 
-xinput disable 12 -mouse touchpad disable
-xinput enable 12 -mouse touchpad enable
+ xinput list
+xinput disable 11 -mouse touchpad disable
+xinput enable 11 -mouse touchpad enable
 
 redshift -O 4500   # Warm white (recommended night setting)
 redshift -O 3500   # Amber light (deeper night mode)
